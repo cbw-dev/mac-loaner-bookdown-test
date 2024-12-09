@@ -1,0 +1,28 @@
+# Module 2
+
+## Lecture
+
+## Lab
+
+<!-- ERIC TEST -->
+
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**NOTICE!**
+:::
+
+TESTING CALLOUT BLOCKS
+::::
+
+<!-- Test: Go to preamble.tex, and comment out lines 2-9,  ctrl+shift+c-->
+
+
+<!-- Additional Notes for Julia provided below, can ignore -->
+
+<!-- put some example of producing images, show chunk options -->
+
+<!-- ```{r, pressure-plot, echo=FALSE},  -->
+<!-- plot(pressure) -->
+<!-- ``` -->
+
+<!-- - include formatting options -->

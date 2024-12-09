@@ -1,0 +1,35 @@
+/* Below consists of styling predefined by bookdown, be careful touching these */
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* Below consists of css elements added for the purpose of this template*/
+
+#sponsors { /*styling the sponsors header at the bottom of the sidebar, comes from the toc in _output.yml*/
+  text-align: center;
+}
+
+.blackbox {
+  padding: 1em;
+  background: black;
+  color: white;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+
+/* Insert any of your specific css additions below*/
